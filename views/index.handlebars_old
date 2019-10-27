@@ -1,0 +1,37 @@
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-sm-4">
+            <div class="text-center">
+                <div class="card profile mb-2">
+                    <img src="angry-developer.jpg" alt="Card image cap" class="card-img-top">
+
+                    <div class="card-body">
+                        <h6 class="card-title"> 工程師</h6>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-4">
+            <div class="text-center">
+                <div class="card profile mb-2">
+                    <img src="angry-designer.jpg" alt="Card image cap" class="card-img-top">
+                    <div class="card-body">
+                        <h6 class="card-title"> 設計師</h6>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="text-center">
+                <div class="card profile mb-2">
+                    <img src="angry-founder.jpg" alt="Card image cap" class="card-img-top">
+                    <div class="card-body">
+                        <h6 class="card-title"> 創業家</h6>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
